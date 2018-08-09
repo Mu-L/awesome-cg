@@ -3,6 +3,7 @@ BRDF:
 * [GPU Gems 3:Chapter 20. GPU-Based Importance Sampling](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html)
 * [Cook-Torrance - A Reflectance Model for Computer Graphics](http://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
 * [GGX - Microfacet Models for Refraction through Rough Surfaces](http://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
+* [An Illumination Model for a Skin Layer Bounded by Rough Surfaces](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/skin.pdf)
 
 Lighting Technique:
 * [GPU Gems 3:Chapter 24. The Importance of Being Linear](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html)
