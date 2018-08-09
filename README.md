@@ -13,6 +13,7 @@ Shadow Technique:
 * [GPU Gems 1:Chapter 11. Shadow Map Antialiasing](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch11.html)
 * [GPU Gems 3:Chapter 08. Summed-Area Variance Shadow Maps](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch08.html)
 * [GPU Gems 3:Chapter 10. Parallel-Split Shadow Maps on Programmable GPUs](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
+* [Percentage-Closer Soft Shadows](http://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
 
 Volumetric Lighting:
 * [游戏开发相关实时渲染技术之体积光](https://zhuanlan.zhihu.com/p/21425792)
@@ -33,7 +34,7 @@ Atmospheric Scattering Technique:
 * [Wavelength dependency of the Solar limb darkening](http://www.physics.hmc.edu/faculty/esin/a101/limbdarkening.pdf)
 
 Screen Space Reflections Technique:
-* [Blog: Screen Space Glossy Reflections](http://roar11.com/2015/07/screen-space-glossy-reflections/)_
+* [Screen Space Glossy Reflections](http://roar11.com/2015/07/screen-space-glossy-reflections/)_
 
 Depth of Filed Technique:
 * [Hexagonal Bokeh Blur Revisited](https://colinbarrebrisebois.com/2017/04/18/hexagonal-bokeh-blur-revisited/)
@@ -57,3 +58,6 @@ Color Encoding Technique:
 * [RGBM color encoding](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
 * [Compact Normal Storage for small G-Buffers](http://aras-p.info/texts/CompactNormalStorage.html)
 * [Convert Temperature to RGB](https://github.com/davidf2281/ColorTempToRGB)
+
+Anti-aliasing:
+* [Geometric Specular Aliasing](http://media.steampowered.com/apps/valve/2015/Alex_Vlachos_Advanced_VR_Rendering_GDC2015.pdf)
