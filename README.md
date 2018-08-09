@@ -2,6 +2,7 @@ BRDF:
 * [如何看懂这些"该死的"图形学公式](https://zhuanlan.zhihu.com/p/21489591)
 * [GPU Gems 3:Chapter 20. GPU-Based Importance Sampling](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html)
 * [Cook-Torrance - A Reflectance Model for Computer Graphics](http://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
+* [Cook-Torrance模型公式推导](https://www.cnblogs.com/herenzhiming/articles/5789043.html)
 * [GGX - Microfacet Models for Refraction through Rough Surfaces](http://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [An Illumination Model for a Skin Layer Bounded by Rough Surfaces](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/skin.pdf)
 
