@@ -1,6 +1,7 @@
 BRDF:
 * [如何看懂这些"该死的"图形学公式](https://zhuanlan.zhihu.com/p/21489591)
 * [GPU Gems 3:Chapter 20. GPU-Based Importance Sampling](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html)
+* [Cook-Torrance](http://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
 
 Lighting Technique:
 * [GPU Gems 3:Chapter 24. The Importance of Being Linear](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html)
