@@ -79,10 +79,10 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 
 ### Shadow
 ----------
-* [Shadow Map Antialiasing](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch11.html) GPU Gems 1 - Chapter 11.
-* [Summed-Area Variance Shadow Maps](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch08.html) GPU Gems 3 - Chapter 08.
-* [Parallel-Split Shadow Maps on Programmable GPUs](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html) GPU Gems 3 - Chapter 10.
-* [Percentage-Closer Soft Shadows](http://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
+* [Shadow Map Antialiasing (PCF)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch11.html) GPU Gems 1 - Chapter 11.
+* [Summed-Area Variance Shadow Maps (VSM)](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch08.html) GPU Gems 3 - Chapter 08.
+* [Parallel-Split Shadow Maps on Programmable GPUs (PSSM)](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html) GPU Gems 3 - Chapter 10.
+* [Percentage-Closer Soft Shadows (PCSS)](http://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
 
 ### Volumetric&nbsp;Lighting
 * [游戏开发相关实时渲染技术之体积光](https://zhuanlan.zhihu.com/p/21425792)
@@ -99,7 +99,11 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
  
 ### Terrain
 ----------
+* [Fast Terrain Rendering Using Geometrical MipMapping](https://www.flipcode.com/archives/article_geomipmaps.pdf)
+* [Real-time optimally adapting mesh (ROAM)](https://www.hindawi.com/journals/ijcgt/2008/753584/) [Source Code](http://www.cognigraph.com/ROAM_homepage/ROAM2/)
+* [Chunked LOD](http://tulrich.com/textweb.pl?path=geekstuff/chunklod.txt)
 * [Terrain Rendering Using GPU-Based Geometry Clipmaps](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html) GPU Gems 2 - Chapter 02.
+* [Procedural Modeling and Rendering of Cities](http://pcity.sourceforge.net/)
 
 ### Texture
 ----------
@@ -114,6 +118,7 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
 * [An Approximation to the Chapman Grazing-Incidence Function for Atmospheric Scattering](http://www.gameenginegems.net/gemsdb/article.php?id=1133) \[[Source Code](https://www.shadertoy.com/view/XlBfRD)] GPU Pro 3
 * [Precomputed Atmospheric Scattering](https://ebruneton.github.io/precomputed_atmospheric_scattering/) \[[Source Code](https://github.com/ebruneton/precomputed_atmospheric_scattering)]
 * [Wavelength dependency of the Solar limb darkening](http://www.physics.hmc.edu/faculty/esin/a101/limbdarkening.pdf)
+* [Atmospheric and volume rendering improvements]()
 
 ### Screen&nbsp;Space&nbsp;Reflections
 ----------
