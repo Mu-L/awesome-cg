@@ -100,7 +100,7 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
 * [Parallax Occlusion Map](http://sunandblackcat.com/tipFullView.php?topicid=28)
 * [Normal Blending in Detail](http://blog.selfshadow.com/publications/blending-in-detail/)
 * [Bump map to Normal](https://docs.unrealengine.com/latest/attachments/Engine/Rendering/LightingAndShadows/BumpMappingWithoutTangentSpace/mm_sfgrad_bump.pdf)
-* [GPU Gems 1:Chapter 25. Fast Filter-Width Estimates with Texture Maps](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html)
+* [Fast Filter-Width Estimates with Texture Maps](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html) GPU Gems 1 - Chapter 25.
 
 ### Atmospheric&nbsp;Scattering
 ----------
