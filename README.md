@@ -74,3 +74,6 @@ Color Encoding Technique:
 
 Anti-aliasing:
 * Geometric Specular Aliasing \[[Paper](http://media.steampowered.com/apps/valve/2015/Alex_Vlachos_Advanced_VR_Rendering_GDC2015.pdf)\]
+
+Performance profile:
+* Screen-filling Rasterization using Screen-aligned Quads and Triangles \[[Paper](https://cginternals.com/en/blog/2018-01-10-screen-aligned-quads-and-triangles.html)\]
