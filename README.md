@@ -1,32 +1,32 @@
 Contents
 -----------
 * Books
-  * [GPU Details](#GPUDetail)
+  * [GPU Details](#GPU&nbsp;Detail)
 * Physically-based Rendering
-  * [Getting Starting](##GettingStarted)
-  * [BRDF/BSDF/BSSRDF](##BRDF)
-  * [Importance Sampling](##ImportanceSampling)
-  * [Low-discrepancy sequences](##Low-discrepancysequences)
-  * [Path Tracing](##PathTracing)
-  * [Denoise](##Denoise)
+  * [Getting Starting](#Getting&nbsp;Started)
+  * [BRDF/BSDF/BSSRDF](#BRDF)
+  * [Importance Sampling](#Importance&nbsp;Sampling)
+  * [Low-discrepancy sequences](#Low-discrepancy&nbsp;sequences)
+  * [Path Tracing](#Path&nbsp;Tracing)
+  * [Denoise](#Denoise)
 * Real Time Rendering
-  * [Getting Starting](##LearnOpenGl)
-  * [Lighting](##Lighting)
-  * [Global Illumination](##GlobalIllumination)
-  * [Volumetric Lighting](##VolumetricLighting)
-  * [Shadow](##Shadow)
-  * [Terrain](##Terrain)
-  * [Texture/Normal/Parrlax/Filter](##Texture)
-  * [Atmospheric Scattering](##AtmosphericScattering)
+  * [Learn OpenGL](#LearnOpenGL)
+  * [Lighting](#Lighting)
+  * [Global Illumination](#Global&nbsp;Illumination)
+  * [Volumetric Lighting](#Volumetric&nbsp;Lighting)
+  * [Shadow](#Shadow)
+  * [Terrain](#Terrain)
+  * [Texture/Normal/Parrlax/Filter](#Texture)
+  * [Atmospheric Scattering](#Atmospheric&nbsp;Scattering)
   * Post Process
-    * [Screen Space Reflections](##ScreenSpaceReflections)
-    * [Depth Of Filed](##DepthOfFiled)
-    * [HDR/Bloom](##Bloom)
-    * [Tone Mapping](##ToneMapping)
-    * [Color Grading & Correction](##ColorGrading&Correction)
-    * [Anti-aliasing](##Anti-aliasing)
-* [Color Encoding](##ColorEncoding)
-* [Performance profile](##PerformanceProfile)
+    * [Screen Space Reflections](#Screen&nbsp;Space&nbsp;Reflections)
+    * [Depth Of Filed](#Depth&nbsp;of&nbsp;Filed)
+    * [HDR/Bloom](#Bloom)
+    * [Tone Mapping](#Tonemapping)
+    * [Color Grading & Correction](#Color&nbsp;Grading&nbsp;&&nbsp;Correction)
+    * [Anti-aliasing](#Anti-aliasing)
+* [Color Encoding](#Color&nbsp;Encoding)
+* [Performance profile](#Performance&nbsp;Profile)
 
 ### Getting&nbsp;Started
 ----------
@@ -67,7 +67,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 ----------
 * [A Machine Learning Approach for Filtering Monte Carlo Noise](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF/)
 
-### LearnOpenGl
+### LearnOpenGL
 ---------
 * [Learn Opengl](https://learnopengl.com/)
 * [Learn Opengl - Zh-cn](https://learnopengl-cn.github.io/)
@@ -153,11 +153,11 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 * [Compact Normal Storage for small G-Buffers](http://aras-p.info/texts/CompactNormalStorage.html)
 * [Convert Temperature to RGB](https://github.com/davidf2281/ColorTempToRGB)
 
-### Anti-aliasing:
+### Anti-aliasing
 -------
 * [Geometric Specular Aliasing](http://media.steampowered.com/apps/valve/2015/Alex_Vlachos_Advanced_VR_Rendering_GDC2015.pdf)
 
-### Performance&nbsp;Profile:
+### Performance&nbsp;Profile
 -------
 * [Screen-filling Rasterization using Screen-aligned Quads and Triangles](https://cginternals.com/en/blog/2018-01-10-screen-aligned-quads-and-triangles.html)
 
