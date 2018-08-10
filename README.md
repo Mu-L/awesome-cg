@@ -87,7 +87,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 * [Webgl-deferred-irradiance-volume](http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/) \[[Github](https://github.com/pyalot/webgl-deferred-irradiance-volumes)]
 * [Real-time Global Illumination by Precomputed Local Reconstruction 
 from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html) \[[Github](https://github.com/Global-Illuminati/Precomputed-Local-Reconstuction-from-Sparse-Radience-Probes)\]
-* [Real-Time Global Illumination using Precomputed Light Field Probes](http://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf)] \[[Github](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes)\]
+* [Real-Time Global Illumination using Precomputed Light Field Probes](http://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf) \[[Github](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes)\]
 * [Light-Propagation-Volumes](http://www.crytek.com/download/Light_Propagation_Volumes.pdf) \[[Github](https://github.com/Global-Illuminati/Light-Propagation-Volumes)]
 * [Point Based Global Illumination](http://www.aduprat.com/portfolio/?page=articles/PBGI)] \[[Github](https://github.com/XT95/PBGI)]
  
