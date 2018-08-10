@@ -4,6 +4,7 @@ Contents
   * [Getting Starting](##GettingStarted)
   * [BRDF/BSDF/BSSRDF](##BRDF)
   * [Importance Sampling](##ImportanceSampling)
+  * [Low-discrepancy sequences](##Low-discrepancysequences)
   * [Path Tracing](##PathTracing)
 * Real Time Rendering
   * [Getting Starting](##LearnOpenGl)
@@ -41,6 +42,17 @@ Contents
 * [GPU-Based Importance Sampling](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html) GPU Gems 3 - Chapter 20.
 * [Importance Sampling for Production Rendering](http://www.igorsklyar.com/system/documents/papers/4/fiscourse.comp.pdf)
 * [Monte Carlo Techniques for Direct Lighting Calculations](http://www.cs.utah.edu/~shirley/papers/tog94.pdf)
+
+### Low-discrepancy&nbsp;sequences
+----------
+* [低差异序列（一）- 常见序列的定义及性质](https://zhuanlan.zhihu.com/p/20197323)
+* [低差异序列（二）- 高效实现以及应用](https://zhuanlan.zhihu.com/p/20374706)
+* [Quasi-Monte Carlo Image Synthesis
+in a Nutshell](http://web.maths.unsw.edu.au/~josefdick/MCQMC_Proceedings/MCQMC_Proceedings_2012_Preprints/100_Keller_tutorial.pdf)
+* [Enumerating Quasi-Monte Carlo Point
+Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-enum.pdf)
+* [Efficient Multidimensional Sampling](https://www.uni-kl.de/AG-Heinrich/EMS.pdf)
+* [Blog - Leonhard](http://gruenschloss.org/)
 
 ### Path&nbsp;Tracing
 ----------
