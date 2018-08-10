@@ -86,13 +86,14 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 
 ### Volumetric&nbsp;Lighting
 * [游戏开发相关实时渲染技术之体积光](https://zhuanlan.zhihu.com/p/21425792)
+* [Volumetric Light Scattering as a Post-Process](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch13.html) GPU Gems 3 - Chapter 13.
 
 ### Global&nbsp;Illumination
 -----------
 * [Webgl-deferred-irradiance-volume](http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/) \[[Github](https://github.com/pyalot/webgl-deferred-irradiance-volumes)]
 * [Real-time Global Illumination by Precomputed Local Reconstruction 
 from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html) \[[Github](https://github.com/Global-Illuminati/Precomputed-Local-Reconstuction-from-Sparse-Radience-Probes)\]
-* [Real-Time Global Illumination using Precomputed Light Field Probes](http://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf)] \[[Github](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes)\]
+* [Real-Time Global Illumination using Precomputed Light Field Probes](http://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf) \[[Github](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes)\]
 * [Light-Propagation-Volumes](http://www.crytek.com/download/Light_Propagation_Volumes.pdf) \[[Github](https://github.com/Global-Illuminati/Light-Propagation-Volumes)]
 * [Point Based Global Illumination](http://www.aduprat.com/portfolio/?page=articles/PBGI)] \[[Github](https://github.com/XT95/PBGI)]
  
@@ -105,12 +106,11 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
 * [Parallax Occlusion Map](http://sunandblackcat.com/tipFullView.php?topicid=28)
 * [Normal Blending in Detail](http://blog.selfshadow.com/publications/blending-in-detail/)
 * [Bump map to Normal](https://docs.unrealengine.com/latest/attachments/Engine/Rendering/LightingAndShadows/BumpMappingWithoutTangentSpace/mm_sfgrad_bump.pdf)
-* [GPU Gems 1:Chapter 25. Fast Filter-Width Estimates with Texture Maps](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html)
+* [Fast Filter-Width Estimates with Texture Maps](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html) GPU Gems 1 - Chapter 25.
 
 ### Atmospheric&nbsp;Scattering
 ----------
 * [Accurate Atmospheric Scattering](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter16.html) GPU Gems 2 - Chapter 16.
-* [Volumetric Light Scattering as a Post-Process](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch13.html)] GPU Gems 3 - Chapter 13.
 * [An Approximation to the Chapman Grazing-Incidence Function for Atmospheric Scattering](http://www.gameenginegems.net/gemsdb/article.php?id=1133) \[[Source Code](https://www.shadertoy.com/view/XlBfRD)] GPU Pro 3
 * [Precomputed Atmospheric Scattering](https://ebruneton.github.io/precomputed_atmospheric_scattering/) \[[Source Code](https://github.com/ebruneton/precomputed_atmospheric_scattering)]
 * [Wavelength dependency of the Solar limb darkening](http://www.physics.hmc.edu/faculty/esin/a101/limbdarkening.pdf)
