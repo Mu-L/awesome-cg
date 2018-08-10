@@ -59,6 +59,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 ### Path&nbsp;Tracing
 ----------
 * [Simple PathTracing by Inigo Quilez](http://www.iquilezles.org/www/articles/simplepathtracing/simplepathtracing.htm)
+* [Efficient Monte Carlo Rendering with Realistic Lenses](https://cg.ivd.kit.edu/publications/pubhanika/2014_lenssim.pdf)
 
 ### Denoise
 ----------
