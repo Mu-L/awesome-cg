@@ -23,6 +23,7 @@ Volumetric Lighting:
 * 游戏开发相关实时渲染技术之体积光 \[[Paper](https://zhuanlan.zhihu.com/p/21425792)\]
 
 Global Illumination:
+* Webgl-deferred-irradiance-volumes \[[Paper](http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/)\] \[[Github](https://github.com/pyalot/webgl-deferred-irradiance-volumes)\]
 * Real-time Global Illumination by Precomputed Local Reconstruction 
 from Sparse Radiance Probes \[[Paper](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html)\] \[[Source Code](https://github.com/Global-Illuminati/Precomputed-Local-Reconstuction-from-Sparse-Radience-Probes)\]
 * Real-Time Global Illumination using Precomputed Light Field Probes \[[Paper](http://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf)] \[[Github](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes)\]
