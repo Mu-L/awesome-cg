@@ -6,6 +6,7 @@ Contents
   * [Importance Sampling](##ImportanceSampling)
   * [Low-discrepancy sequences](##Low-discrepancysequences)
   * [Path Tracing](##PathTracing)
+  * [Denoise](##Denoise)
 * Real Time Rendering
   * [Getting Starting](##LearnOpenGl)
   * [Lighting](##Lighting)
@@ -34,6 +35,7 @@ Contents
 --------
 * [Cook-Torrance - A Reflectance Model for Computer Graphics](http://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
 * [Cook-Torrance 模型公式推导](https://www.cnblogs.com/herenzhiming/articles/5789043.html)
+* [Blinn-phong - ](https://design.osu.edu/carlson/history/PDFs/blinn-light.pdf)
 * [GGX - Microfacet Models for Refraction through Rough Surfaces](http://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [An Illumination Model for a Skin Layer Bounded by Rough Surfaces](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/skin.pdf)
 
@@ -57,6 +59,10 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 ### Path&nbsp;Tracing
 ----------
 * [Simple PathTracing by Inigo Quilez](http://www.iquilezles.org/www/articles/simplepathtracing/simplepathtracing.htm)
+
+### Denoise
+----------
+* [A Machine Learning Approach for Filtering Monte Carlo Noise](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF/)
 
 ### LearnOpenGl
 ---------
