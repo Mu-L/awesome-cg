@@ -80,6 +80,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 
 ### Volumetric&nbsp;Lighting
 * [游戏开发相关实时渲染技术之体积光](https://zhuanlan.zhihu.com/p/21425792)
+* [Volumetric Light Scattering as a Post-Process](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch13.html) GPU Gems 3 - Chapter 13.
 
 ### Global&nbsp;Illumination
 -----------
@@ -104,7 +105,6 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
 ### Atmospheric&nbsp;Scattering
 ----------
 * [Accurate Atmospheric Scattering](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter16.html) GPU Gems 2 - Chapter 16.
-* [Volumetric Light Scattering as a Post-Process](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch13.html)] GPU Gems 3 - Chapter 13.
 * [An Approximation to the Chapman Grazing-Incidence Function for Atmospheric Scattering](http://www.gameenginegems.net/gemsdb/article.php?id=1133) \[[Source Code](https://www.shadertoy.com/view/XlBfRD)] GPU Pro 3
 * [Precomputed Atmospheric Scattering](https://ebruneton.github.io/precomputed_atmospheric_scattering/) \[[Source Code](https://github.com/ebruneton/precomputed_atmospheric_scattering)]
 * [Wavelength dependency of the Solar limb darkening](http://www.physics.hmc.edu/faculty/esin/a101/limbdarkening.pdf)
