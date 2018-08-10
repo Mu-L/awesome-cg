@@ -50,7 +50,7 @@ Depth of Filed Technique:
 * [Practical Post-Process Depth of Field](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch28.html)
 
 HDR Technique:
-* [Blog: How to do good bloom for hdr rendering](http://kalogirou.net/2006/05/20/how-to-do-good-bloom-for-hdr-rendering/)
+* [How to do good bloom for hdr rendering](http://kalogirou.net/2006/05/20/how-to-do-good-bloom-for-hdr-rendering/)
 * [GPU Gems 1:Chapter 21. Real-Time Glow](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch21.html)
 * [Unreal 4: Dirt Mask Image Best Practices](https://docs.unrealengine.com/en-us/Engine/Rendering/PostProcessEffects/Bloom)
 
