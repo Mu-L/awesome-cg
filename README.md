@@ -7,9 +7,11 @@ BRDF:
 * GPU Gems 3:Chapter 20. GPU-Based Importance Sampling \[[Paper](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html)\]
 
 Lighting Technique:
-* Approximation of the IBL’s DFG term for a cloth BRDF \[[Paper](https://gist.github.com/romainguy/52d0e7f070d9ed7b44a0327d735fe33e)\]
+* Approximation of the IBL’s DFG term for a cloth BRDF \[[Github](https://gist.github.com/romainguy/52d0e7f070d9ed7b44a0327d735fe33e)\]
 * Pre-Integrated Skin Shading \[[Paper](http://simonstechblog.blogspot.com/2015/02/pre-integrated-skin-shading.html)\]
 * Real-Time Polygonal-Light Shading with Linearly Transformed Cosines \[[Paper](https://eheitzresearch.wordpress.com/415-2/)\] \[[Source Code](https://github.com/selfshadow/ltc_code)\]
+* Special-Case Materials Wetness \[[Paper](http://advances.realtimerendering.com/other/2016/naughty_dog/NaughtyDog_TechArt_Final.pdf)\]
+* Matcap - Creating a Spherical Reflection/Environment Mapping shader \[[Paper](https://www.clicktorelease.com/blog/creating-spherical-environment-mapping-shader/)\]
 
 Shadow Technique:
 * GPU Gems 1:Chapter 11. Shadow Map Antialiasing \[[Paper](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch11.html)\]
