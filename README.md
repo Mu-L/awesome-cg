@@ -1,7 +1,7 @@
 Contents
 -----------
 * Books
-  * GPU Detail(#GPUDetail)
+  * [GPU Details](#GPUDetail)
 * Physically-based Rendering
   * [Getting Starting](##GettingStarted)
   * [BRDF/BSDF/BSSRDF](##BRDF)
