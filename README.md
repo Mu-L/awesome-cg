@@ -35,7 +35,11 @@ Atmospheric Scattering Technique:
 * [GPU Gems 2:Chapter 16. Accurate Atmospheric Scattering](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter16.html)
 * [GPU Gems 3:Chapter 13. Volumetric Light Scattering as a Post-Process](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch13.html)
 * [An Approximation to the Chapman Grazing-Incidence Function for Atmospheric Scattering](http://www.gameenginegems.net/gemsdb/article.php?id=1133)
+* [An Approximation to the Chapman Grazing-Incidence Function for Atmospheric Scattering - Source Code ](https://www.shadertoy.com/view/XlBfRD)
+* [Precomputed Atmospheric Scattering](https://ebruneton.github.io/precomputed_atmospheric_scattering/)
+* [Precomputed Atmospheric Scattering - Source Code](https://github.com/ebruneton/precomputed_atmospheric_scattering)
 * [Wavelength dependency of the Solar limb darkening](http://www.physics.hmc.edu/faculty/esin/a101/limbdarkening.pdf)
+* [Precomputed Atmospheric Scattering]()
 
 Screen Space Reflections Technique:
 * [Screen Space Glossy Reflections](http://roar11.com/2015/07/screen-space-glossy-reflections/)_
