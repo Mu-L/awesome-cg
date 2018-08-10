@@ -99,7 +99,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 ### Terrain
 ----------
 * [Fast Terrain Rendering Using Geometrical MipMapping](https://www.flipcode.com/archives/article_geomipmaps.pdf)
-* [Real-time optimally adapting mesh (ROAM)](https://www.hindawi.com/journals/ijcgt/2008/753584/) [Source Code](http://www.cognigraph.com/ROAM_homepage/ROAM2/)
+* [Real-time optimally adapting mesh (ROAM)](https://www.hindawi.com/journals/ijcgt/2008/753584/) \[[Source Code](http://www.cognigraph.com/ROAM_homepage/ROAM2/)]
 * [Chunked LOD](http://tulrich.com/textweb.pl?path=geekstuff/chunklod.txt)
 * [Terrain Rendering Using GPU-Based Geometry Clipmaps](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html) GPU Gems 2 - Chapter 02.
 * [Procedural Modeling and Rendering of Cities](http://pcity.sourceforge.net/)
