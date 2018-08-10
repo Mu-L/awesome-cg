@@ -82,7 +82,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 * [Shadow Map Antialiasing (PCF)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch11.html) GPU Gems 1 - Chapter 11.
 * [Summed-Area Variance Shadow Maps (VSM)](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch08.html) GPU Gems 3 - Chapter 08.
 * [Parallel-Split Shadow Maps on Programmable GPUs (PSSM)](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html) GPU Gems 3 - Chapter 10.
-* [Percentage-Closer Soft Shadows (PCSS)](http://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
+* [Percentage-Closer Soft Shadows (PCSS)](http://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf) Randima Fernando NVIDIA Corporation
 
 ### Volumetric&nbsp;Lighting
 * [游戏开发相关实时渲染技术之体积光](https://zhuanlan.zhihu.com/p/21425792)
