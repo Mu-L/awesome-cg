@@ -7,7 +7,6 @@ BRDF:
 * [An Illumination Model for a Skin Layer Bounded by Rough Surfaces](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/skin.pdf)
 
 Lighting Technique:
-* [GPU Gems 3:Chapter 24. The Importance of Being Linear](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html)
 * [Approximation of the IBL’s DFG term for a cloth BRDF](https://gist.github.com/romainguy/52d0e7f070d9ed7b44a0327d735fe33e)
 * [Pre-Integrated Skin Shading](http://simonstechblog.blogspot.com/2015/02/pre-integrated-skin-shading.html)
 * [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/)
@@ -57,7 +56,8 @@ HDR Technique:
 Tonemapping Technique:
 * [ACES Filmic Tone Mapping Curve](https://knarkowicz.wordpress.com/2016/08/31/hdr-display-first-steps/)
 
-Color Grading Technique:
+Color Grading & Correction Technique:
+* [GPU Gems 3:Chapter 24. The Importance of Being Linear](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html)
 * [GPU Gems 2:Chapter 24. Using Lookup Tables to Accelerate Color Transformations](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter24.html)
 
 Color Encoding Technique:
