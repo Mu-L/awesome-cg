@@ -1,5 +1,6 @@
 BRDF:
 * 如何看懂这些"该死的"图形学公式 \[[Paper](https://zhuanlan.zhihu.com/p/21489591)\]
+* The Rendering Equation \[[Paper](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/IA725/ia725-12010/kajiya-SIG86-p143.pdf)\]
 * Cook-Torrance - A Reflectance Model for Computer Graphics \[[Paper](http://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)\]
 * Cook-Torrance模型公式推导 \[[Paper](https://www.cnblogs.com/herenzhiming/articles/5789043.html)\]
 * GGX - Microfacet Models for Refraction through Rough Surfaces \[[Paper](http://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)\]
