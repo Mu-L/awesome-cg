@@ -22,6 +22,13 @@ Shadow Technique:
 Volumetric Lighting:
 * 游戏开发相关实时渲染技术之体积光 \[[Paper](https://zhuanlan.zhihu.com/p/21425792)\]
 
+Global Illumination:
+* Real-time Global Illumination by Precomputed Local Reconstruction 
+from Sparse Radiance Probes \[[Paper](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html)\] \[[Source Code](https://github.com/Global-Illuminati/Precomputed-Local-Reconstuction-from-Sparse-Radience-Probes)\]
+* Real-Time Global Illumination using Precomputed Light Field Probes \[[Paper](http://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf)] \[[Github](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes)\]
+* Light-Propagation-Volumes \[[Pdf](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)\] \[[Github](https://github.com/Global-Illuminati/Light-Propagation-Volumes)]
+* Point Based Global Illumination \[[Article](http://www.aduprat.com/portfolio/?page=articles/PBGI)] \[[Github](https://github.com/XT95/PBGI)]
+ 
 Terrain Technique:
 * GPU Gems 2:Chapter 02. Terrain Rendering Using GPU-Based Geometry Clipmaps \[[Paper](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html)
 \]
