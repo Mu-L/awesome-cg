@@ -90,12 +90,12 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 
 ### Global&nbsp;Illumination
 -----------
+* [Point Based Global Illumination](http://www.aduprat.com/portfolio/?page=articles/PBGI)] \[[Github](https://github.com/XT95/PBGI)]
+* [Light-Propagation-Volumes](http://www.crytek.com/download/Light_Propagation_Volumes.pdf) \[[Github](https://github.com/Global-Illuminati/Light-Propagation-Volumes)]
 * [Webgl-deferred-irradiance-volume](http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/) \[[Github](https://github.com/pyalot/webgl-deferred-irradiance-volumes)]
 * [Real-time Global Illumination by Precomputed Local Reconstruction 
 from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/index.html) \[[Github](https://github.com/Global-Illuminati/Precomputed-Local-Reconstuction-from-Sparse-Radience-Probes)\]
 * [Real-Time Global Illumination using Precomputed Light Field Probes](http://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf) \[[Github](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes)\]
-* [Light-Propagation-Volumes](http://www.crytek.com/download/Light_Propagation_Volumes.pdf) \[[Github](https://github.com/Global-Illuminati/Light-Propagation-Volumes)]
-* [Point Based Global Illumination](http://www.aduprat.com/portfolio/?page=articles/PBGI)] \[[Github](https://github.com/XT95/PBGI)]
  
 ### Terrain
 ----------
@@ -118,7 +118,6 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
 * [An Approximation to the Chapman Grazing-Incidence Function for Atmospheric Scattering](http://www.gameenginegems.net/gemsdb/article.php?id=1133) \[[Source Code](https://www.shadertoy.com/view/XlBfRD)] GPU Pro 3
 * [Precomputed Atmospheric Scattering](https://ebruneton.github.io/precomputed_atmospheric_scattering/) \[[Source Code](https://github.com/ebruneton/precomputed_atmospheric_scattering)]
 * [Wavelength dependency of the Solar limb darkening](http://www.physics.hmc.edu/faculty/esin/a101/limbdarkening.pdf)
-* [Atmospheric and volume rendering improvements]()
 
 ### Screen&nbsp;Space&nbsp;Reflections
 ----------
@@ -126,14 +125,14 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
 
 ### Depth&nbsp;of&nbsp;Filed
 ----------
-* [Hexagonal Bokeh Blur Revisited](https://colinbarrebrisebois.com/2017/04/18/hexagonal-bokeh-blur-revisited/) \[[Source Code](https://github.com/zigguratvertigo/HexBokehBlur)]
 * [Depth of Field: A Survey of Techniques](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch23.html)
 * [Practical Post-Process Depth of Field](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch28.html)
+* [Hexagonal Bokeh Blur Revisited](https://colinbarrebrisebois.com/2017/04/18/hexagonal-bokeh-blur-revisited/) \[[Source Code](https://github.com/zigguratvertigo/HexBokehBlur)]
 
 ### Bloom
 ----------
-* [How to do good bloom for hdr rendering](http://kalogirou.net/2006/05/20/how-to-do-good-bloom-for-hdr-rendering/)
 * [Real-Time Glow](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch21.html) GPU Gems 1 - Chapter 21.
+* [How to do good bloom for hdr rendering](http://kalogirou.net/2006/05/20/how-to-do-good-bloom-for-hdr-rendering/)
 * [Dirt Mask Image Best Practices](https://docs.unrealengine.com/en-us/Engine/Rendering/PostProcessEffects/Bloom) Unreal 4
 
 ### Tonemapping
@@ -147,8 +146,8 @@ from Sparse Radiance Probes](https://users.aalto.fi/~silvena4/Projects/RTGI/inde
 
 ### Color&nbsp;Encoding
 ----------
-* [Compact YCoCg Frame Buffer for small IBL-Buffer](http://jcgt.org/published/0001/01/02/)
 * [RGBM color encoding](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
+* [Compact YCoCg Frame Buffer for small IBL-Buffer](http://jcgt.org/published/0001/01/02/)
 * [Compact Normal Storage for small G-Buffers](http://aras-p.info/texts/CompactNormalStorage.html)
 * [Convert Temperature to RGB](https://github.com/davidf2281/ColorTempToRGB)
 
