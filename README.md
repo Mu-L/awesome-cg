@@ -1,5 +1,7 @@
 Contents
 -----------
+* Books
+  * GPU Detail(#GPUDetail)
 * Physically-based Rendering
   * [Getting Starting](##GettingStarted)
   * [BRDF/BSDF/BSSRDF](##BRDF)
@@ -158,3 +160,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 ### Performance&nbsp;Profile:
 -------
 * [Screen-filling Rasterization using Screen-aligned Quads and Triangles](https://cginternals.com/en/blog/2018-01-10-screen-aligned-quads-and-triangles.html)
+
+### GPU&nbsp;Detail
+----
+* [A-trip-through-the-graphics-pipeline](https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book)
