@@ -39,7 +39,6 @@ Atmospheric Scattering Technique:
 * [Precomputed Atmospheric Scattering](https://ebruneton.github.io/precomputed_atmospheric_scattering/)
 * [Precomputed Atmospheric Scattering - Source Code](https://github.com/ebruneton/precomputed_atmospheric_scattering)
 * [Wavelength dependency of the Solar limb darkening](http://www.physics.hmc.edu/faculty/esin/a101/limbdarkening.pdf)
-* [Precomputed Atmospheric Scattering]()
 
 Screen Space Reflections Technique:
 * [Screen Space Glossy Reflections](http://roar11.com/2015/07/screen-space-glossy-reflections/)_
