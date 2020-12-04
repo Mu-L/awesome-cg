@@ -165,3 +165,7 @@ Sequences in Elementary Intervals](http://gruenschloss.org/sample-enum/sample-en
 ### GPU&nbsp;Detail
 ----
 * [A-trip-through-the-graphics-pipeline](https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book)
+
+### Paper
+----
+* [原神](https://zhuanlan.zhihu.com/p/316138540)
